@@ -1,6 +1,6 @@
 cask "stickspace" do
-  version "0.1.0"
-  sha256 "80608bf858321f87183bf722b74ec13d914cb7f63774e5a6e3880a70af32ce9a"
+  version "0.2.0"
+  sha256 "5ff81784195fb51ef0906b6045477c0d1f437af3a520b5f12e3a605d965f7907"
 
   url "https://github.com/caskbrew/StickSpace/releases/download/v#{version}/StickSpace-#{version}.zip"
   name "StickSpace"
