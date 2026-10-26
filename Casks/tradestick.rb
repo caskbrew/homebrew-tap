@@ -1,6 +1,6 @@
 cask "tradestick" do
-  version "0.5.1"
-  sha256 "0b30e75260bda2058644d83b2e46e421c22741eff65c1bf9d308478d5f7e1ebc"
+  version "0.6.0"
+  sha256 "9c92d19c59e797c21fe9f73e22536d857962fb52c3781c9d3c7e8f8c91a46770"
 
   url "https://github.com/caskbrew/TradeStick/releases/download/v#{version}/TradeStick-#{version}.zip"
   name "TradeStick"
